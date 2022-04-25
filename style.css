@@ -1,0 +1,40 @@
+body {
+    font-family: Akrobat, sans-serif;
+}
+main{
+    display: block;
+}
+.title {
+    background-color: lightgrey;
+}
+
+h1 {
+    text-align: center;
+}
+
+.area {
+    background-color: lemonchiffon;
+
+}
+textarea {
+    display: block;
+    width: 600px;
+    height: 300px;
+    margin: 20px auto;
+    padding: 8px 10px;
+    text-align: justify;
+}
+.container-btn{
+    background-color: darkslateblue;
+    display: flex;
+    padding-left: 300px;
+    padding-right: 300px;
+}
+
+button {
+    border: darkslateblue;
+    border-radius: 3px;
+    text-align: center;
+    margin: 5px auto;
+    cursor: pointer;
+}
